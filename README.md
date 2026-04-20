@@ -4,7 +4,6 @@
   </head>
   <body>
 
-  <h1>PRECICIOS BAJOS</h1>
   <p>¡Encuentra tus productos aqui!</p>
   <form>
     <input type="text" placeholder="Buscar producto...">
