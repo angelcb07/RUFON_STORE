@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <title>RUFON_STORE</title>
@@ -56,7 +55,7 @@
                                                                                                                                                                                         <img src="AQUI_URL_IMAGEN" width="150">
                                                                                                                                                                                               </a>
                                                                                                                                                                                                     <p><b>Producto 4</b></p>
-                                                                                                                                                                                                          <p>Precio: S/00</p>
+                                                                                                                                                                                                          <p>Precio: S/10.00</p>
                                                                                                                                                                                                                 <p>ENVIO TODO EL PERU</p>
                                                                                                                                                                                                                       </table>
 
