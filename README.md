@@ -56,7 +56,7 @@
                                                                                                                                                                                                     <p><b>Laptop Lenovo LOQ 15AHP10 Ryzen 7-250 16GB 1TB SSD 15.6”</b></p>
                                                                                                                                                                                                           <p>Precio: S/10.00</p>
                                                                                                                                                                                                                 <p>ENVIO TODO EL PERU</p>
-                                                                                                                                                                                                                      </table>
+                                                                                                                                                                                                                      
 
-                                                                                                                                                                                                                      </body>
-                                                                                                                                                                                                                      </html>
+                                                                                                                                                                                                                      
+                                                                                                                                                                                                               
