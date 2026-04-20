@@ -51,7 +51,7 @@
 
                                                                                                                                                                       <!-- PRODUCTO 4 -->
                                                                                                                                                                           <td>
-                                                                                                                                                                                <a href="producto4.html">
+                                                                                                                                                                                <a href="https://infotecshop.pe/products/laptop-lenovo-loq-15ahp10-ryzen-7-250-16gb-1tb-ssd-15-6?variant=46935352017065">
                                                                                                                                                                                         <img src="https://infotecshop.pe/cdn/shop/files/LENOVO_LOQ_15AHP10_3__jpg.jpg?v=1774550383&width=990" width="150">
                                                                                                                                                                                               </a>
                                                                                                                                                                                                     <p><b>Laptop Lenovo LOQ 15AHP10 Ryzen 7-250 16GB 1TB SSD 15.6”</b></p>
