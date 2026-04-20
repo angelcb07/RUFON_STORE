@@ -52,7 +52,7 @@
                                                                                                                                                                       <!-- PRODUCTO 4 -->
                                                                                                                                                                           <td>
                                                                                                                                                                                 <a href="producto4.html">
-                                                                                                                                                                                        <img src="AQUI_URL_IMAGEN" width="150">
+                                                                                                                                                                                        <img src="https://infotecshop.pe/cdn/shop/files/LENOVO_LOQ_15AHP10_3__jpg.jpg?v=1774550383&width=990" width="150">
                                                                                                                                                                                               </a>
                                                                                                                                                                                                     <p><b>Laptop Lenovo LOQ 15AHP10 Ryzen 7-250 16GB 1TB SSD 15.6”</b></p>
                                                                                                                                                                                                           <p>Precio: S/10.00</p>
