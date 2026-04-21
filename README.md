@@ -45,11 +45,11 @@
                                                                                                                                                                   </td>
 
                                                                                                                                                                           <td>
-                                                                                                                                                                                <a href="https://infotecshop.pe/products/laptop-lenovo-loq-15ahp10-ryzen-7-250-16gb-1tb-ssd-15-6?variant=46935352017065">
-                                                                                                                                                                                        <img src="https://infotecshop.pe/cdn/shop/files/LENOVO_LOQ_15AHP10_3__jpg.jpg?v=1774550383&width=990" width="150">
+                                                                                                                                                                                <a href="https://infotecshop.pe/products/laptop-lenovo-essential-loq-15irx11-core-i5-16gb-512gb-ssd-15-6?variant=46935346315433">
+                                                                                                                                                                                        <img src="https://infotecshop.pe/cdn/shop/files/LENOVOASSENTIALLOQ15IRX11I5-13450HX_jpg.jpg?v=1774549764&width=600" width="150">
                                                                                                                                                                                               </a>
-                                                                                                                                                                                                    <p><b>Laptop Lenovo LOQ 15AHP10 Ryzen 7-250 16GB 1TB SSD 15.6”</b></p>
-                                                                                                                                                                                                          <p>Precio: S/10.00</p>
+                                                                                                                                                                                                    <p><b>Laptop Lenovo Essential LOQ 15IRX11 Core i5 16GB 512GB SSD 15.6</b></p>
+                                                                                                                                                                                                          <p>Precio: S/4,489.00</p>
                                                                                                                                                                                                                 <p>ENVIO TODO EL PERU</p>
 <tr>
         <td>
