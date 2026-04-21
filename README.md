@@ -1,4 +1,5 @@
 <html>
+  ang="es"
 <head>
   <title>🛒RUFON_STORE</title>
   </head>
@@ -17,22 +18,22 @@
       <table border="5">
         <tr>
         <td>
-                      <a href="https://infotecshop.pe/products/laptop-hp-250-g10-core-i5-16gb-512gb-ssd-15-7?variant=46985556197545">
-                              <img src="https://infotecshop.pe/cdn/shop/files/250G10I5-1334U_3__jpg.jpg?v=1776096184&width=990" width="200">
-                                    </a>
-                                          <p><b>Laptop Hp 250 G10 Core I5 16GB 512GB SSD 15.6”</b></p>
-                                                <p>Precio: S/2579.00</p>
-                                                      <p>ENVIO TODO EL PERU</p>
-                                                          </td>
-                                                             <td>
-                                                                        <a href="https://infotecshop.pe/products/laptop-lenovo-v15-g5-irl-core-i3-8gb-256gb-ssd-15-6?variant=46936654348457">
-                                                                                <img src="https://infotecshop.pe/cdn/shop/files/LENOVOV15G5IRLINTELI3-1315U_jpg.jpg?v=1774617603&width=990" width="200">
-                                                                                      </a>
-                                                                                            <p><b>Laptop Lenovo V15 G5 IRL Core I3 8GB 256GB SSD 15.6”</b></p>
-                                                                                                  <p>Precio: S/1619.00</p>
-                                                                                                        <p>ENVIO TODO EL PERU</p>
-                                                                                                            </td>
-                                                                                                              </tr>
+   <a href="https://infotecshop.pe/products/laptop-hp-250-g10-core-i5-16gb-512gb-ssd-15-7?variant=46985556197545">
+        <img src="https://infotecshop.pe/cdn/shop/files/250G10I5-1334U_3__jpg.jpg?v=1776096184&width=990" width="200">
+        </a>
+         <p><b>Laptop Hp 250 G10 Core I5 16GB 512GB SSD 15.6”</b></p>
+          <p>Precio: S/2579.00</p>
+         <p>ENVIO TODO EL PERU</p>
+         </td>
+           <td>
+        <a href="https://infotecshop.pe/products/laptop-lenovo-v15-g5-irl-core-i3-8gb-256gb-ssd-15-6?variant=46936654348457">
+        <img src="https://infotecshop.pe/cdn/shop/files/LENOVOV15G5IRLINTELI3-1315U_jpg.jpg?v=1774617603&width=990" width="200">
+         </a>
+          <p><b>Laptop Lenovo V15 G5 IRL Core I3 8GB 256GB SSD 15.6”</b></p>
+            <p>Precio: S/1619.00</p>
+            <p>ENVIO TODO EL PERU</p>
+            </td>
+            </tr>
 
                                                                                                                 <tr>
                                                                                                                  <td>
