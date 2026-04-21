@@ -14,7 +14,7 @@
 
       <h2>Productos</h2>
 
-      <table border="10">
+      <table border="5">
         <tr>
         <td>
                       <a href="https://infotecshop.pe/products/laptop-hp-250-g10-core-i5-16gb-512gb-ssd-15-7?variant=46985556197545">
@@ -24,9 +24,7 @@
                                                 <p>Precio: S/2579.00</p>
                                                       <p>ENVIO TODO EL PERU</p>
                                                           </td>
-
-                                                              <!-- PRODUCTO 2 -->
-                                                                  <td>
+                                                             <td>
                                                                         <a href="https://infotecshop.pe/products/laptop-lenovo-v15-g5-irl-core-i3-8gb-256gb-ssd-15-6?variant=46936654348457">
                                                                                 <img src="https://infotecshop.pe/cdn/shop/files/LENOVOV15G5IRLINTELI3-1315U_jpg.jpg?v=1774617603&width=990" width="200">
                                                                                       </a>
@@ -37,8 +35,7 @@
                                                                                                               </tr>
 
                                                                                                                 <tr>
-                                                                                                                    <!-- PRODUCTO 3 -->
-                                                                                                                        <td>
+                                                                                                                 <td>
                                                                                                                               <a href="https://infotecshop.pe/products/laptop-hp-victus-15-fb3018la-ryzen-7-8gb-512gb-ssd-15-6?variant=46935343562921">
                                                                                                                                       <img src="https://infotecshop.pe/cdn/shop/files/HPVICTUS15-FB3018LA_3__jpg.jpg?v=1774549362&width=990" width="200">
                                                                                                                                             </a>
@@ -47,7 +44,6 @@
                                                                                                                                                               <p>ENVIO TODO EL PERU</p>
                                                                                                                                                                   </td>
 
-                                                                                                                                                                      <!-- PRODUCTO 4 -->
                                                                                                                                                                           <td>
                                                                                                                                                                                 <a href="https://infotecshop.pe/products/laptop-lenovo-loq-15ahp10-ryzen-7-250-16gb-1tb-ssd-15-6?variant=46935352017065">
                                                                                                                                                                                         <img src="https://infotecshop.pe/cdn/shop/files/LENOVO_LOQ_15AHP10_3__jpg.jpg?v=1774550383&width=990" width="150">
