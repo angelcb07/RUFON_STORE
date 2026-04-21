@@ -54,7 +54,7 @@
 <tr>
         <td>
                       <a href="https://infotecshop.pe/products/laptop-lenovo-loq-15irx9-core-i7-16gb-512gb-ssd-15-6?variant=46019287023785">
-                              <img src="(https://infotecshop.pe/cdn/shop/files/LenovoLOQ15IRX9I7.jpg?v=1751478707&width=600)" width="150">
+                              <img src="https://infotecshop.pe/cdn/shop/files/LenovoLOQ15IRX9I7.jpg?v=1751478707&width=600" width="150">
                                     </a>
                                           <p><b>Laptop Lenovo LOQ 15IRX9 Core I7 16GB 512GB SSD 15.6”</b></p>
                                                 <p>Precio: S/2579.00</p>
