@@ -51,6 +51,24 @@
                                                                                                                                                                                                     <p><b>Laptop Lenovo LOQ 15AHP10 Ryzen 7-250 16GB 1TB SSD 15.6”</b></p>
                                                                                                                                                                                                           <p>Precio: S/10.00</p>
                                                                                                                                                                                                                 <p>ENVIO TODO EL PERU</p>
+<tr>
+        <td>
+                      <a href="https://infotecshop.pe/products/laptop-lenovo-loq-15irx9-core-i7-16gb-512gb-ssd-15-6?variant=46019287023785">
+                              <img src="(https://infotecshop.pe/cdn/shop/files/LenovoLOQ15IRX9I7.jpg?v=1751478707&width=600)" width="150">
+                                    </a>
+                                          <p><b>Laptop Lenovo LOQ 15IRX9 Core I7 16GB 512GB SSD 15.6”</b></p>
+                                                <p>Precio: S/2579.00</p>
+                                                      <p>ENVIO TODO EL PERU</p>
+                                                          </td>
+                                                             <td>
+                                                                        <a href="https://infotecshop.pe/products/laptop-lenovo-v15-g5-irl-core-i3-8gb-256gb-ssd-15-6?variant=46936654348457">
+                                                                                <img src="https://infotecshop.pe/cdn/shop/files/LENOVOV15G5IRLINTELI3-1315U_jpg.jpg?v=1774617603&width=990" width="200">
+                                                                                      </a>
+                                                                                            <p><b>Laptop Lenovo V15 G5 IRL Core I3 8GB 256GB SSD 15.6”</b></p>
+                                                                                                  <p>Precio: S/1619.00</p>
+                                                                                                        <p>ENVIO TODO EL PERU</p>
+                                                                                                            </td>
+                                                                                                              </tr>
                                                                                                                                                                                                                       
 
                                                                                                                                                                                                                       
