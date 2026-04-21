@@ -16,8 +16,7 @@
 
       <table border="10">
         <tr>
-            <!-- PRODUCTO 1 -->
-                <td>
+        <td>
                       <a href="https://infotecshop.pe/products/laptop-hp-250-g10-core-i5-16gb-512gb-ssd-15-7?variant=46985556197545">
                               <img src="https://infotecshop.pe/cdn/shop/files/250G10I5-1334U_3__jpg.jpg?v=1776096184&width=990" width="200">
                                     </a>
